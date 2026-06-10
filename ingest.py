@@ -4,6 +4,7 @@ from chunker import chunk_text
 DOCUMENTS_DIR = Path("documents")
 CHUNK_SIZE = 200
 OVERLAP = 50
+MIN_TOKENS = 20
 
 
 def load_documents(docs_dir: Path) -> list[dict]:
@@ -19,6 +20,8 @@ def build_chunks(docs: list[dict]) -> list[dict]:
     chunks = []
     for doc in docs:
         for i, chunk in enumerate(chunk_text(doc["text"], CHUNK_SIZE, OVERLAP)):
+            if len(chunk.split()) < MIN_TOKENS:
+                continue
             chunks.append({
                 "source": doc["source"],
                 "chunk_index": i,
