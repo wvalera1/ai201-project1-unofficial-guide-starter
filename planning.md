@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The domain I chose was running shoes. This knowledge is valuable because a good pair of running shoes gives you the confidence and comfortability to perform well, whether it's recreationally or competitively. The problem that most people encounter is choosing the "right" pair of running shoes. This is because there are many factors to take into consideration: price, material, sizing, etc. Aggregating all of this data together with a RAG model can give users the best personalized choice for what running shoes to buy.
+
 ---
 
 ## Documents
