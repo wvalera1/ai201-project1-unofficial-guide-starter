@@ -1,0 +1,169 @@
+RETRIEVAL TEST RUN 1
+Date: 2026-06-10
+Model: all-MiniLM-L6-v2 | Vector store: ChromaDB (cosine) | top_k=20
+Chunks in store: 155 | Chunk size: 200 tokens | Overlap: 50 tokens
+Note: distances are cosine distances (lower = more similar)
+
+================================================================================
+BATCH 1 — First 3 evaluation queries (top_k=3 shown)
+================================================================================
+
+Query: What are the most expensive shoes offered by Nike?
+  [1] source2.txt  dist=0.4047
+       the bunch. These runners of various experience levels, gait patterns, ages, and arch types make our testing all-inclusive. We've grouped shoes into three categories-training, racing, trail-to help you pick and choose which pairs fit your running lifestyle. Our staff and local wear testers based these selections on fit, feel, and ride. We've also included links to earlier iterations that are now at discounted prices. Please note: While we're experts at vetting the best footwear, buying shoes on these sites is at reader's discretion. We update these links on a regular basis, but prices fluctuate every day and shoes sell out fast. We'll do our best to check on these links for any changes as the year moves forward. Full Reviews Best Training Shoes Best Overall Adidas Adizero Evo SL $180 It's been over a year since Dengate named the Adidas Adizero Evo SL as the shoe of the year. Because it was merely the beginning of the year, Dengate swore he would eat the trainer if another took its place. Well, the Evo SL is still available, still in our Best Overall spot, and Dengate won't have to make a meal of rubber and laces. This prime spot is subject
+
+  [2] source8.txt  dist=0.4121
+       available in DSW, retails in 60-70 dollars range. I'm on my 2nd pair and I put in 100+ miles a week so I'm cost conscious Try buying the previous model on line or maybe your local running store has some. Last year's model on sale. It's that simple. Saucony, ASICS, Brooks, Nike, and New Balance seem to have the steepest discounts. Hoka and On rarely seem to slash their prices that steeply. Adidas has some shoes for cheap too Regardless of what's recommended, I encourage people to find an outlet if possible near them. You can get lucky and find these shoes on sale for up to 50% off relatively often. I got my AP3's at an outlet randomly. I almost never buy full price any more Find a model you like and stalk it on Sierra.com and 6pm.com. Buy a couple of pairs on sale at a time if you can swing it. I swear by the Brooks Launch model - going all the way back to the first edition. You can get them for around $100. I have two pairs currently and rotate them to give the midsoles a chance to rebound; allowing each pair to last longer.
+
+  [3] source8.txt  dist=0.4156
+       EZ_Company For budget-conscious runners, what are the most economical shoe per mile? Gear For budget-conscious runners, what shoes (brands / products) do ya'll recommend? Even running 30 - 40 mpw means I'm swapping shoes every couple months, which adds up quickly. I do realize everyone's experience is slightly different (weight, stride, pronation, gravel vs concrete, rainy vs snow vs hot weather, etc.) but curious on others' experiences. I'm a stability shoe user and have found: Brooks seems to be the longest lasting with a few pairs going well until 1,000+ mi. The shoe holds up amazingly well (no tears or rips anywhere) but the foam deteriorates to where pain / injury starts Hokas have lasted up to ~650 mi but they have the longest break-in period. The plastic heel counters break through the cloth and padding and is rough on the ankle. Their sole padding has a sharp inner edge, which takes ~50 mi to 'break-in' blisters as a pronating flat-footed runner. Oasics start feeling flat after ~400 miles - especially in the ball / tip area but overall solid shoes Saucony's have been the absolute worst for me - the insole and outsole areas seem to blow up (rips
+
+Assessment: FAIL — wrong sources. source10 (Supwell most expensive) not in top 3.
+
+--------------------------------------------------------------------------------
+
+Query: According to Supwell, are On Cloudboom Strike LS worth the $330 price tag?
+  [1] source10.txt  dist=0.4597
+       $250 and can often be found at a massive discount in certain colorways. On Cloudboom Strike LS for $330 The Cloudboom Strike LS has a great midsole, but the fancy upper adds a $50 premium over the non-lightspray version. We've really enjoyed the standard Cloudboom Strike and think it is a much better deal at $280. ASICS Metaspeed Ray for $300 While $300 is a lot of money to pay for a running shoe, you are paying for the forefront of innovation in the Metaspeed Ray. ASICS is on the cutting edge of lightweight race shoe technology with this one. You get a full slab of their ATPU foam in a package that is lighter than any other race shoe on the market. Only time will tell how durable it is, but the Ray is definitely a unique experience with the newest foam compound on the market. If you'd like to try something a little less aggressive but still using some of the new ATPU foam, try the Metaspeed Sky Tokyo or the Metaspeed Edge Tokyo for $270. Puma Fast-R 3 at $300 The Fast-R 3 is both lab tested and hobby jogger tested to be the fastest and most
+
+  [2] source10.txt  dist=0.6024
+       Rating the Most Expensive Race Shoes from Every Brand Every major running shoe brand now has at least one marathon race shoe. They range in price from the Mizuno Wave Rebellion Pro 3 at $250 to the Puma Fast-R 3 and ASICS Metaspeed Ray at $300, all the way up to the Adidas Adizero Adios Pro Evo 2 at $500. Below we are looking at each brand's top-tier racer and letting you know if it is worth the price. Adidas Adizero Adios Pro Evo 2 at $500 The Pro Evo 2 is a lightweight, fast and highly capable marathon racer, but for $500 we'd expect something that feels more special. ASICS and Puma have dropped far more exciting shoes for $200 less. If you want a similar feel with a much more durable foam and outsole, check out the Adios Pro 4 from Adidas that retails at a very competitive $250 and can often be found at a massive discount in certain colorways. On Cloudboom Strike LS for $330 The Cloudboom Strike LS has a great midsole, but the fancy upper adds a $50 premium over the non-lightspray version. We've really enjoyed the standard Cloudboom Strike and think it is
+
+  [3] source8.txt  dist=0.6309
+       of On Cloudswifts have lasted me anywhere from 300 mi to 600+. I think it depends far more on the terrain and running conditions than the brand, if you're looking at most effective way to cut costs. Brooks Glycerine GTS - long runs Adidas Boston - faster runs, inc track I'm a pronator who likes stability too. And a wide toe box if that matters. These work well for me long term. Glycerine has been my go to for a long time. Boston is a recent appreciation. I know some miss the OG Boston but I'm happy with the new iteration. Helped me get over an Achilles injury and prep for a half marathon PB. I stand by Superblast. My first pair is at 887km. I'd keep using them but the grip is gone and it's winter here. When Spring comes and we're back to dry pavement, I'm using them again. They are great. $300CAD for my pair. They can do everything from easy to marathon paced runs, and a little quicker. Not great for intervals, but anything slower. Best bang for buck imo. I have heard similar about the Novablast 5, but I'd reckon you need a race day
+
+Assessment: PASS — source10 is #1, chunk contains the answer (not worth the premium over standard Cloudboom Strike).
+
+--------------------------------------------------------------------------------
+
+Query: What are the best daily trainers for stability, according to Running Warehouse?
+  [1] source7.txt  dist=0.4147
+       figures way above average, we had no doubts about its ability to reduce landing force. Despite its generous foam, it surprisingly weighs only 9.3 oz (264g), at par with average. The midsole has a lot of give for foot-bending, which enhances its lightness. In our flex test, it emerged 12.3% more malleable than average. The padded knit upper has a premium touch. Despite its plushness, we had no encounters with overheating in our indoor runs, courtesy of the well-ventilated upper. And breathable it is, as our smoke test reveals a solid 4/5 rating. Note that its super soft foam may feel unstable, particularly for heel strikers. Runners who need extra reinforcements should go for a more supportive trainer. Pros Massive stack height Super-plush Enerzy NXT foam Perfect for long runs Lightweight for its huge size Good durability Breathable knit upper Roomy toebox height Insanely fun! Best lightweight running shoes for treadmill Saucony Kinvara 16 What makes it the best? The Saucony Kinvara 16 brought our treadmill experience to life with its refreshing ride and featherweight feel. This versatile trainer responds to interval training, provides comfort for LSDs, and offers flexibility for easygoing days. It's an agile training companion, packed with
+
+  [2] source2.txt  dist=0.4470
+       gear for almost two decades, and myself, a 14 times consecutive Boston Marathon finisher, we've logged thousands of miles during our tenure at Runner's World, witnessing the dawn of super shoes and the evolution of stability tech. Below are our top picks based on our own testing, staff insights, and wear-tester feedback. Best Running Shoes Best Overall: Adidas Adizero Evo SL (Men's/Women's) Best Value: New Balance Ellipse v1 (Men's/Women's) Best Daily Trainer: Brooks Ghost 18 (Men's/Women's) Best Super Trainer: Brooks Hyperion Max 3 (Men's/Women's) Best for Long Runs: Nike Vomero Plus (Men's/Women's) How We Selected At Runner's World, we've tested gear since 1966. Our experts are diehard runners like you, putting in the mileage to evaluate products every run, every day. We also have a team of 300+ local wear-testers who log at least 100 miles in every shoe and provide valuable feedback to help us determine the best of the bunch. These runners of various experience levels, gait patterns, ages, and arch types make our testing all-inclusive. We've grouped shoes into three categories-training, racing, trail-to help you pick and choose which pairs fit your running lifestyle. Our staff and local wear testers based these selections on fit, feel, and
+
+  [3] source7.txt  dist=0.4515
+       treadmill Saucony Kinvara 16 What makes it the best? The Saucony Kinvara 16 brought our treadmill experience to life with its refreshing ride and featherweight feel. This versatile trainer responds to interval training, provides comfort for LSDs, and offers flexibility for easygoing days. It's an agile training companion, packed with features that elevate our indoor runs, such as breathability, earning the best lightweight treadmill running shoe title, as confirmed by our lab tests. Weighing a mere 7.3 oz (207g), it's 21.6% lighter than the average road running shoe. Its loose and fluid build adds to its weightlessness as it follows our natural foot contortions with ease. Our bend test confirms that Kinvara 16 is 22.1% more flexible than average, bringing unparalleled agility to our strides. Its moderate stack height of 28.0/23.5 mm offers a natural yet steady and speedy ride. Wrapping up the breezy experience is its uninterrupted airflow, making heated indoor sessions more bearable. As we pumped smoke into the shoe, it escaped seamlessly, earning the maximum 5/5 breathability score. However, the midsole may feel dull to performance-seeking runners. Those who require more energy return should
+
+Assessment: FAIL — source1 (Running Warehouse) not in top 3. source7 (Runrepeat treadmill) dominates.
+
+================================================================================
+BATCH 2 — All 5 evaluation queries, full chunk text (top_k=3 shown)
+================================================================================
+
+Q1: What are the most expensive shoes offered by Nike?
+Expected: Nike Alphafly 3 at $295 from source10 (Supwell)
+
+  [1] source2.txt  dist=0.4047  [WRONG SOURCE]
+  the bunch. These runners of various experience levels, gait patterns, ages, and arch types make our
+  testing all-inclusive. We've grouped shoes into three categories-training, racing, trail-to help you
+  pick and choose which pairs fit your running lifestyle. [...]
+
+  [2] source8.txt  dist=0.4121  [WRONG SOURCE]
+  available in DSW, retails in 60-70 dollars range. I'm on my 2nd pair and I put in 100+ miles a week
+  so I'm cost conscious [...budget Reddit thread content...]
+
+  [3] source8.txt  dist=0.4156  [WRONG SOURCE]
+  EZ_Company For budget-conscious runners, what are the most economical shoe per mile? [...]
+
+  Top-20 ranking for source10:
+    rank 4  dist=0.4309  (chunk: intro to most expensive shoes article — Adidas/On/ASICS prices)
+    rank 8  dist=0.4580  (chunk: contains "Alphafly 3 is still worth it" — closest to answer)
+    rank 20 dist=0.4833  (chunk: Brooks/NB/Mizuno prices)
+
+  Assessment: FAIL — source10 not in top 3. Nike Alphafly 3 mention found at rank 8.
+  Root cause: "most expensive" matches budget/price discussions broadly; $295 price
+  split from shoe name across chunk boundary.
+
+--------------------------------------------------------------------------------
+
+Q2: What are the best running shoes offered by Adidas?
+Expected: Adidas Adizero Evo SL from source2 (Runner's World)
+
+  [1] source1.txt  dist=0.2797  [correct content area]
+  The Best Running Shoes of 2026 Finding the perfect running shoe can feel overwhelming [...]
+
+  [2] source2.txt  dist=0.2929  [CORRECT — mentions Adizero Evo SL $180]
+  [...] Full Reviews Best Training Shoes Best Overall Adidas Adizero Evo SL $180 It's been over a
+  year since Dengate named the Adidas Adizero Evo SL as the shoe of the year. [...]
+
+  [3] source2.txt  dist=0.2958  [correct source]
+  The 15 Best Running Shoes of 2026 These shoes outkicked the rest [...]
+
+  Assessment: PASS — source2 in top 3, dist 0.29, chunk contains Adizero Evo SL answer.
+
+--------------------------------------------------------------------------------
+
+Q3: According to Supwell, are On Cloudboom Strike LS worth the $330 price tag?
+Expected: No (not worth premium over standard Cloudboom Strike)
+
+  [1] source10.txt  dist=0.4597  [CORRECT]
+  [...] On Cloudboom Strike LS for $330 The Cloudboom Strike LS has a great midsole, but the fancy
+  upper adds a $50 premium over the non-lightspray version. We've really enjoyed the standard
+  Cloudboom Strike and think it is a much better deal at $280. [...]
+
+  [2] source10.txt  dist=0.6024  [correct source, intro chunk]
+  Rating the Most Expensive Race Shoes from Every Brand [...]
+
+  [3] source8.txt  dist=0.6309  [wrong source, high distance]
+  [budget Reddit thread]
+
+  Assessment: PASS (borderline) — correct source #1, answer clearly in chunk.
+  Note: dist=0.46 is borderline; #2 and #3 are high distance (0.60+).
+
+--------------------------------------------------------------------------------
+
+Q4: What are the best lightweight cross-country shoes according to Runrepeat?
+Expected: Nike Zoom Victory Waffle 5 from source5 (Runrepeat XC guide)
+
+  [1] source5.txt  dist=0.3264  [CORRECT]
+  Runrepeat 7 Best Cross Country Shoes in 2026 Cross country can be wild. [...]
+  [intro chunk — doesn't name Nike Zoom Victory Waffle 5 directly]
+
+  [2] source5.txt  dist=0.3455  [CORRECT]
+  [...] pleasant ride. Its flexible nature offers lasting comfort. [...] What kind of shoes do you
+  need for cross country? [...]
+
+  [3] source8.txt  dist=0.3602  [wrong source]
+  [budget Reddit thread]
+
+  Assessment: PASS — correct source in top 2, dist 0.33–0.35.
+  Note: specific shoe name (Nike Zoom Victory Waffle 5) likely in a deeper source5 chunk.
+
+--------------------------------------------------------------------------------
+
+Q5: What are the best daily trainers for stability, according to Running Warehouse?
+Expected: Brooks Adrenaline GTS 25 from source1 (Running Warehouse)
+
+  [1] source7.txt  dist=0.4147  [WRONG SOURCE — Runrepeat treadmill guide]
+  [stability language from treadmill context]
+
+  [2] source2.txt  dist=0.4470  [WRONG SOURCE — Runner's World]
+  [mentions "evolution of stability tech"]
+
+  [3] source7.txt  dist=0.4515  [WRONG SOURCE]
+  [more treadmill content]
+
+  Top-20 ranking for source1:
+    rank 4  dist=0.4517  (intro chunk — does not contain Brooks Adrenaline GTS 25)
+    rank 10 dist=0.4674  (shoe wear detection content)
+    rank 14 dist=0.4727  (trail shoes content)
+    rank 16 dist=0.4768  (PUMA MagMax content)
+    — Brooks Adrenaline GTS 25 stability chunk NOT present in top-20
+
+  Assessment: FAIL — correct chunk not in top-20.
+  Root cause 1: source7 has extensive stability language, outranks source1 on semantics.
+  Root cause 2: "Running Warehouse" appears only once in source1 (footer line), not near
+               the Brooks Adrenaline content. No chunk spans both pieces.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Pass: Q2 (Adidas), Q3 (On Cloudboom), Q4 (Runrepeat XC)
+Fail: Q1 (Nike expensive — rank 4/8 in top-20, not top-3)
+Fail: Q5 (Running Warehouse stability — correct chunk not in top-20)
+
+Known fix deferred: Prepend source labels (e.g., "Running Warehouse: ") to each chunk
+text before embedding so source attribution becomes part of the semantic fingerprint.
