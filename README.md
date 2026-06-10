@@ -26,18 +26,18 @@ The domain I chose was running shoes. This knowledge is valuable because a good 
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Running Warehouse (source1.txt) | A forum regarding the best running shoes to buy as of June 2026, depending on the attribute you're looking for (stability, max cushion, etc.). | https://www.runningwarehouse.com/learningcenter/gear_guides/footwear/best_running_shoes.html?from=gsearch&from=gshop&gad_source=1&gad_campaignid=12650333882&gbraid=0AAAAADka_jhmEg-nu7NFxDiE42FIF1OMo&gclid=CjwKCAjw857RBhAgEiwAI-1yKOeFY64em7jvIQ-xl6UMniLLAzjv49wGpzZZs3AA9OcFtjIMvoL0khoCT84QAvD_BwE
+| 1 | Running Warehouse | A forum regarding the best running shoes to buy as of June 2026, depending on the attribute you're looking for (stability, max cushion, etc.). | https://www.runningwarehouse.com/learningcenter/gear_guides/footwear/best_running_shoes.html?from=gsearch&from=gshop&gad_source=1&gad_campaignid=12650333882&gbraid=0AAAAADka_jhmEg-nu7NFxDiE42FIF1OMo&gclid=CjwKCAjw857RBhAgEiwAI-1yKOeFY64em7jvIQ-xl6UMniLLAzjv49wGpzZZs3AA9OcFtjIMvoL0khoCT84QAvD_BwE
  |
-| 2 | Runner's World (source2.txt) | A list of the best running shoes curated by Runner's World, a renowned global magazine and website for runners. | https://www.runnersworld.com/gear/a19663621/best-running-shoes/
+| 2 | Runner's World | A list of the best running shoes curated by Runner's World, a renowned global magazine and website for runners. | https://www.runnersworld.com/gear/a19663621/best-running-shoes/
  |
-| 3 | Reddit (source3.txt) | A Reddit forum about the worst running shoes Redditors have ever bought. r/RunningShoeGeeks is an active running community with over 200K members. | https://www.reddit.com/r/RunningShoeGeeks/comments/16szb4e/worst_shoes_you_have_ever_bought/ |
-| 4 | Reddit (source4.txt) | A Reddit forum about the least favorite running shoes Radditors have ever bought. r/RunningShoeGeeks is an active running community with over 200K members. | https://www.reddit.com/r/RunningShoeGeeks/comments/16lwot2/what_are_your_least_favorite_running_shoes/ |
-| 5 | Runrepeat (source5.txt) | A guide on the best shoes for cross-country running, curated by Runrepeat. Runrepeat is a legitimate, highly trusted platform for athletic footwear reviews. | https://runrepeat.com/guides/best-cross-country-shoes |
-| 6 | Reddit (source6.txt) | A Reddit forum about the best shoes for cross country running. r/CrossCountry is an active running community with over 11K weekly visitors. | https://www.reddit.com/r/CrossCountry/comments/162zmd9/shoes_for_cross_country/ |
-| 7 | Runrepeat (source7.txt) | A guide on the best shoes for indoor/treadmill running, curated by Runrepeat. Runrepeat is a legitimate, highly trusted platform for athletic footwear reviews. | https://runrepeat.com/guides/best-treadmill-running-shoes |
-| 8 | Reddit (source8.txt) | A Reddit forum about the best budget running shoes. r/AdvancedRunning is an active running community with over 152K weekly visitors. | https://www.reddit.com/r/AdvancedRunning/comments/1ivvygy/for_budgetconscious_runners_what_are_the_most/ |
-| 9 | Runner's World (source9.txt) | A list of the most affordable running shoes curated by Runner's World, a renowned global magazine and website for runners. | https://www.runnersworld.com/gear/a24228881/affordable-running-shoes/ |
-| 10 | Supwell (source10.txt) | A list of the most expensive running shoes from every athletic brand, curated by Supwell. Supwell is an established digital platform designed for hobby joggers and running shoe enthusiasts. | https://www.supwell.com/supbeat/rating-the-most-expensive-race-shoes-from-every-brand |
+| 3 | Reddit | A Reddit forum about the worst running shoes Redditors have ever bought. r/RunningShoeGeeks is an active running community with over 200K members. | https://www.reddit.com/r/RunningShoeGeeks/comments/16szb4e/worst_shoes_you_have_ever_bought/ |
+| 4 | Reddit | A Reddit forum about the least favorite running shoes Radditors have ever bought. r/RunningShoeGeeks is an active running community with over 200K members. | https://www.reddit.com/r/RunningShoeGeeks/comments/16lwot2/what_are_your_least_favorite_running_shoes/ |
+| 5 | Runrepeat | A guide on the best shoes for cross-country running, curated by Runrepeat. Runrepeat is a legitimate, highly trusted platform for athletic footwear reviews. | https://runrepeat.com/guides/best-cross-country-shoes |
+| 6 | Reddit | A Reddit forum about the best shoes for cross country running. r/CrossCountry is an active running community with over 11K weekly visitors. | https://www.reddit.com/r/CrossCountry/comments/162zmd9/shoes_for_cross_country/ |
+| 7 | Runrepeat | A guide on the best shoes for indoor/treadmill running, curated by Runrepeat. Runrepeat is a legitimate, highly trusted platform for athletic footwear reviews. | https://runrepeat.com/guides/best-treadmill-running-shoes |
+| 8 | Reddit | A Reddit forum about the best budget running shoes. r/AdvancedRunning is an active running community with over 152K weekly visitors. | https://www.reddit.com/r/AdvancedRunning/comments/1ivvygy/for_budgetconscious_runners_what_are_the_most/ |
+| 9 | Runner's World | A list of the most affordable running shoes curated by Runner's World, a renowned global magazine and website for runners. | https://www.runnersworld.com/gear/a24228881/affordable-running-shoes/ |
+| 10 | Supwell | A list of the most expensive running shoes from every athletic brand, curated by Supwell. Supwell is an established digital platform designed for hobby joggers and running shoe enthusiasts. | https://www.supwell.com/supbeat/rating-the-most-expensive-race-shoes-from-every-brand |
 
 ---
 
