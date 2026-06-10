@@ -48,7 +48,7 @@ The domain I chose was running shoes. This knowledge is valuable because a good 
 
 **Overlap:** 50 tokens
 
-**Reasoning:** After examining all of the documents I selected, the average review always falls below 200. The only exception are the reviews posted by Runner's World, which are usually about 250-300 words (tokens). To account for this, I have set the overlap to 50 tokens. The longest review I recorded in all of the documents is 309 words, which is significantly longer than the average. Since I'd rather accurately capture 200 majority of the reviews, I have set the Chunk size to 175 tokens, which is a more reasonable measure for the other reviews.
+**Reasoning:** After examining all of the documents I selected, the average review always falls below 200. The only exception are the reviews posted by Runner's World, which are usually about 250-300 words (tokens). To account for this, I have set the overlap to 50 tokens. The longest review I recorded in all of the documents is 309 words, which is significantly longer than the average. Since I'd rather accurately capture 200 majority of the reviews, I have set the Chunk size to 200 tokens, which is a more reasonable measure for the other reviews.
 
 ---
 
